@@ -1,4 +1,16 @@
 
 	.section-title{
 	 				color: blue;
+					 display: flex;
+					 /* align-items: center; */
+					 justify-content: center;				 
 	 			 }
+body{
+	background-color: rgb(247, 243, 243);
+
+				  }
+h1 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
